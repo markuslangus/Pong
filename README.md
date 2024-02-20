@@ -9,15 +9,15 @@ Ziel dieses Projekts ist es, Grundkenntnisse in der Anwendung von Programmierkon
 
 ## Funktionen
 
-Echtzeit-Spielmechanik: Nutzt die Pygame-Bibliothek für flüssige Bewegungen und Kollisionserkennung
-Dynamische Schwierigkeit: Die Geschwindigkeit des Balls erhöht sich mit jedem Treffer.
-Punktezählung und Spielende: Das Spiel zählt die Punkte und zeigt den Gewinner an, sobald ein Spieler einen vordefinierten Punktestand erreicht.
-Grafische Benutzeroberfläche: Bietet eine visuelle Oberfläche mit klar definierten Spielobjekten und Punkteanzeige
+* Echtzeit-Spielmechanik: Nutzt die Pygame-Bibliothek für flüssige Bewegungen und Kollisionserkennung
+* Dynamische Schwierigkeit: Die Geschwindigkeit des Balls erhöht sich mit jedem Treffer.
+* Punktezählung und Spielende: Das Spiel zählt die Punkte und zeigt den Gewinner an, sobald ein Spieler einen vordefinierten Punktestand erreicht.
+* Grafische Benutzeroberfläche: Bietet eine visuelle Oberfläche mit klar definierten Spielobjekten und Punkteanzeige
 
 ## Technologien
 
-Python: Programmiersprache für die gesamte Spiellogik
-Pygame: Bibliothek für die Spielentwicklung und grafische Darstellung
+* Python: Programmiersprache für die gesamte Spiellogik
+* Pygame: Bibliothek für die Spielentwicklung und grafische Darstellung
 
 ## Installation und Ausführung
 
@@ -35,9 +35,10 @@ Das Hauptziel dieses Projekts bestand in der Vertiefung grundlegender Programmie
 
 ## Zukünftige Verbesserungen
 
-Hinzufügen eines Hauptmenüs zur Einstellung der Spielparameter
-Implementierung eines Zweispielermodus
-Verbesserung der Benutzeroberfläche und Integration von Soundeffekten
+* Hinzufügen eines Hauptmenüs zur Einstellung der Spielparameter
+* Implementierung eines Zweispielermodus
+* Verbesserung der Kollisionserkennung
+* Verbesserung der Benutzeroberfläche und Integration von Soundeffekten
 
 ## Kontakt
 
