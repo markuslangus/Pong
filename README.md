@@ -42,4 +42,4 @@ Das Hauptziel dieses Projekts bestand in der Vertiefung grundlegender Programmie
 
 ## Kontakt
 
-Für weitere Informationen kontaktieren Sie mich bitte über die folgende E-Mail-Adresse: markus.fabian.lang@gmail.com
+Für weitere Informationen kontaktieren Sie mich bitte über meine im Profil angegebene E-Mail-Adresse.
