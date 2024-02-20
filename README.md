@@ -27,7 +27,7 @@ python main.py
 
 ## Benutzung
 
-Das Spiel startet sofort nach der Ausführung. Der Spieler steuert seinen Schläger durch die Pfeiltasten (hoch und runter). Das Spiel kann jederzeit durch Betätigung der ESC-Taste oder das Schließen des Fensters geschlossen werden. Nach Beendigung eines Spieldurchlaufs besteht die Möglichkeit, das Spiel durch Drücken der r-Taste erneut zu starten.
+Das Spiel startet nach der Ausführung automatisch. Der Spieler steuert seinen Schläger durch die Pfeiltasten (hoch und runter). Das Spiel kann jederzeit durch Betätigung der ESC-Taste oder das Schließen des Fensters geschlossen werden. Nach Beendigung eines Spieldurchlaufs besteht die Möglichkeit, das Spiel durch Drücken der r-Taste erneut zu starten.
 
 ## Ziel des Projekts
 
