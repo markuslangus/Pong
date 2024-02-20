@@ -31,7 +31,7 @@ Das Spiel startet sofort nach der Ausführung. Der Spieler steuert seinen Schlä
 
 ## Ziel des Projekts
 
-Das Hauptziel dieses Projekts war es, grundlegende Programmierkenntnisse zu vertiefen. Es dient als Beweis für die Fähigkeit, erlernte Konzepte in ein funktionierendes Softwareprojekt umzusetzen.
+Das Hauptziel dieses Projekts bestand in der Vertiefung grundlegender Programmierkenntnisse. Es dient als Beweis für die Fähigkeit, erlernte Konzepte in ein funktionierendes Softwareprojekt umzusetzen.
 
 ## Zukünftige Verbesserungen
 
