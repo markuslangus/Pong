@@ -5,11 +5,10 @@
 ## Überblick
 
 Dieses Projekt ist eine moderne Umsetzung des klassischen Arcade-Spiels Pong, entwickelt in Python unter Verwendung der Pygame-Bibliothek. Das Spiel beinhaltet zwei Schläger und einen Ball, wobei der Spieler den Ball über den Bildschirm bewegen muss, um Punkte zu erzielen und letztendlich gegen den KI-Spieler zu gewinnen. 
-Ziel dieses Projekts ist es, Grundkenntnisse in der Anwendung von Programmierkonzepten in einem praktischen, interaktiven Kontext zu demonstrieren.
 
 ## Ziel des Projekts
 
-Das Hauptziel dieses Projekts bestand in der Vertiefung grundlegender Programmierkenntnisse. Es dient als Beweis für die Fähigkeit, erlernte Konzepte in ein funktionierendes Softwareprojekt umzusetzen.
+Das Hauptziel dieses Projekts bestand in der Anwendung von Programmierkonzepten in einem praktischen, interaktiven Kontext. Es dient als Beweis für die Fähigkeit, erlernte Konzepte in ein funktionierendes Softwareprojekt umzusetzen.
 
 ## Funktionen
 
