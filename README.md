@@ -8,7 +8,7 @@ Dieses Projekt ist eine moderne Umsetzung des klassischen Arcade-Spiels Pong, en
 
 ## Ziel des Projekts
 
-Das Hauptziel dieses Projekts bestand in der Anwendung von Programmierkonzepten in einem praktischen, interaktiven Kontext. Es dient als Beweis für die Fähigkeit, erlernte Konzepte in ein funktionierendes Softwareprojekt umzusetzen.
+Das Hauptziel dieses Projekts bestand in der Anwendung von Programmierkonzepten in einem praktischem, interaktivem Kontext. Es dient als Beweis für die Fähigkeit, erlernte Konzepte in ein funktionierendes Softwareprojekt umzusetzen.
 
 ## Funktionen
 
