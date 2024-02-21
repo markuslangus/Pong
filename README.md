@@ -44,4 +44,4 @@ Das Spiel startet nach der Ausführung automatisch. Der Spieler steuert seinen S
 
 ## Kontakt
 
-Für weitere Informationen kontaktieren Sie mich bitte über meine im Profil angegebene E-Mail-Adresse.
+Für weitere Informationen kontaktieren Sie mich gerne über meine im Profil angegebene E-Mail-Adresse.
