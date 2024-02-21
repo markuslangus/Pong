@@ -1,10 +1,10 @@
 # Pong
 
-![pong](https://github.com/markuslangus/Pong/assets/160343238/4ed3d882-152f-4b12-af20-eeda7392d64a)
-
 ## Überblick
 
 Dieses Projekt ist eine moderne Umsetzung des klassischen Arcade-Spiels Pong, entwickelt in Python unter Verwendung der Pygame-Bibliothek. Das Spiel beinhaltet zwei Schläger und einen Ball, wobei der Spieler den Ball über den Bildschirm bewegen muss, um Punkte zu erzielen und letztendlich gegen den KI-Spieler zu gewinnen. 
+
+![pong](https://github.com/markuslangus/Pong/assets/160343238/4ed3d882-152f-4b12-af20-eeda7392d64a)
 
 ## Ziel des Projekts
 
