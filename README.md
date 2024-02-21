@@ -41,6 +41,10 @@ Das Spiel startet nach der Ausführung automatisch. Der Spieler steuert seinen S
 * Verbesserung der Kollisionserkennung
 * Verbesserung der Benutzeroberfläche und Integration von Soundeffekten
 
+## Lizenz
+
+Dieses Projekt ist unter der Unlizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details.
+
 ## Kontakt
 
 Für weitere Informationen kontaktieren Sie mich gerne über meine im Profil angegebene E-Mail-Adresse.
